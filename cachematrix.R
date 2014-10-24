@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## load library for the "ginv" function
+## load library for invoking the "ginv" function
 library("MASS")
 
 ## make a vector & cache mean value of this vector 
